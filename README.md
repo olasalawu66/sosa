@@ -1,0 +1,2 @@
+# sosa
+beginner python code 
